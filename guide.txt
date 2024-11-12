@@ -1,3 +1,5 @@
 Landscape combinator plugin: https://landscapecombinator.github.io/LandscapeCombinator/
 
 The tree scripts are added to the SplineImporter folder after the plugin is installed.  You will have to rebuild the project after.
+
+Old video: https://www.youtube.com/watch?v=kt31SqrR7go
